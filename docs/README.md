@@ -1,4 +1,4 @@
-# 2018 MIT-IAP Computational Law Course
+# Computational Law Winter 2018 MIT-IAP Course
 
 * Instructor: [Daniel "Dazza" Greenwood](http://law.mit.edu/dazza), MIT Media Lab
 * MIT Course Listing: [http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html](http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html)
