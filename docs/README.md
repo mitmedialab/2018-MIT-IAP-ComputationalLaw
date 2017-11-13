@@ -23,10 +23,10 @@
 
 <p style="color: rgb(0, 0, 0); font-family: &quot;Lucida Grande&quot;, Tahoma, Arial, Verdana, sans-serif; font-size: 14.4px;"><strong>Digital Contracts</strong>, including 1) Integrating ordinary digital contracts and blockchain &quot;smart contracts&quot; in automated transactions by individuals or businesses; and&nbsp;2) Standard open-web stack design patterns for executing multiple digital signatures and electronic notarization on digital legal contracts.</p>
 
-## Special Course Project: 2018 Computational Law Design Challenge
+## 2018 Computational Law Design Challenge
 
 
-<p>Registered students and approved auditors participating in the 2018 MIT-IAP Computational Law course may join a special project team to assist <a href="https://law.MIT.edu">law.MIT.edu</a> with the design and modelling of a novel computational law challenge to design, pilot and evaluate an algorithmic, automated and adaptive public rules system in collaboration with a city and other partners.&nbsp; For more context and background on this creative project, see the video clip and project links below from <a href="http://MITLegalForum.org">MIT Legal Forum</a>:</p>
+<p>Registered students and approved auditors participating in the 2018 MIT-IAP Computational Law course may join a special project team challenge to assist <a href="https://law.MIT.edu">law.MIT.edu</a> with the design and modelling of a novel computational law challenge to design, pilot and evaluate an algorithmic, automated and adaptive public rules system in collaboration with a city and other partners.&nbsp; For more context and background on this creative project, see the video clip and project links below from <a href="http://MITLegalForum.org">MIT Legal Forum</a>:</p>
 
 <center><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/-pboxAUgiUA?rel=0" width="560"></iframe></center>
 
