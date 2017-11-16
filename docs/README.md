@@ -41,7 +41,7 @@
 
 # Guest Speakers: Lecture and Breakout Topics
 
-## Managing Information in the Practice of Law
+## Practice of Law and Practice Information Management
 * **Topic Lead:** [Shawnna Hoffman], [Laura Jehl], [Michele Gitlitz] and [Susan Joseph]
 * **Topic Description:** TBA
 
@@ -59,6 +59,10 @@
 
 ## Personal Identity and Data Ownership and Control
 * **Topic Lead:** [Elizabeth Renieris](https://www.linkedin.com/in/elizabethrenieris/)
+* **Topic Description:** TBA
+
+## Public Governance and Municipal Administration
+* **Topic Lead:** [Marci Harris](https://www.linkedin.com/in/marcidale)
 * **Topic Description:** TBA
 
 
