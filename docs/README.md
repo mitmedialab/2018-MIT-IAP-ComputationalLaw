@@ -42,7 +42,7 @@
 # Guest Speakers: Lecture and Breakout Topics
 
 ## Public Records and Long Term Archives
-* **Topic Lead:** [Jason Baron](https://www.linkedin.com/in/jasonrbaron
+* **Topic Lead:** [Jason Baron](https://www.linkedin.com/in/jasonrbaron)
 * **Topic Description:** TBA
 
 ## Professional Ethics and Fiduciary Duties
