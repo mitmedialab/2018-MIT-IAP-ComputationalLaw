@@ -41,6 +41,10 @@
 
 # Guest Speakers: Lecture and Breakout Topics
 
+## Managing Information in the Practice of Law
+* **Topic Lead:** [Shawnna Hoffman], [Laura Jehl], [Michele Gitlitz] and [Susan Joseph]
+* **Topic Description:** TBA
+
 ## Public Records and Long Term Archives
 * **Topic Lead:** [Jason Baron](https://www.linkedin.com/in/jasonrbaron)
 * **Topic Description:** TBA
