@@ -4,6 +4,7 @@
 * MIT Course Listing: [http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html](http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html)
 * Course Splashpage: [https://mitmedialab.github.io/2018-MIT-IAP-ComputationalLaw](https://mitmedialab.github.io/2018-MIT-IAP-ComputationalLaw)
 * No Prerequisites; Permission of Instructor Required
+* Class Sessions: Tuesday, Wednesday and Thursday, January 16, 17 + 18 at 2:00pm - 4:00pm EST
 * Course Application: [goo.gl/forms/Gh3HuIsHYVEwihC82](https://goo.gl/forms/Gh3HuIsHYVEwihC82)
 
 ## General Course Overview
@@ -40,6 +41,10 @@
 <p><strong>For more information</strong>&nbsp;on the&nbsp;2018 MIT-IAP Computational Law Course, check out our&nbsp;<a href="https://github.com/mitmedialab/2018-MIT-IAP-ComputationalLaw/blob/master/docs/MIT-IAP-ComputationalLawCourse-Preview.pdf">Media Lab GitHub Repo</a>,&nbsp;<a href="http://law.mit.edu/learning">Splashpage</a>&nbsp;and official&nbsp;<span style="text-align: center;">MIT-IAP&nbsp;</span><a href="http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html" style="text-align: center;">Course Listing</a>&nbsp;page.&nbsp;</p>
 
 # Guest Speakers: Lecture and Breakout Topics
+
+## Multi-Party Contract Systems and Markets
+* **Topic Lead:** [Christopher Berendt](https://www.drinkerbiddle.com/people/b/berendt-christopher-b)
+* **Topic Description:** TBA
 
 ## Practice of Law and Practice Information Management
 * **Topic Lead:** [Shawnna Hoffman], [Laura Jehl], [Michele Gitlitz] and [Susan Joseph]
