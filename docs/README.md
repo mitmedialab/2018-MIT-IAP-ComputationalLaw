@@ -42,10 +42,6 @@
 
 # Guest Speakers: Lecture and Breakout Topics
 
-**Multi-Party Contract Systems and Markets**
-* **Topic Lead:** [Christopher Berendt](https://www.drinkerbiddle.com/people/b/berendt-christopher-b)
-* **Topic Description:** TBA (Related to Contracts)
-
 **Practice of Law and Practice Information Management**
 * **Topic Lead:** [Shawnna Hoffman](https://www.linkedin.com/in/shawnnahoffman), [Laura Jehl](https://www.bakerlaw.com/LauraEJehl), [Michele Gitlitz](https://www.blankrome.com/index.cfm?contentID=10&bioID=5923) & [Susan Joseph](https://www.linkedin.com/in/susangjoseph)
 * **Topic Description:** TBA (Related to Identity and Digital Assets)
@@ -70,6 +66,9 @@
 * **Topic Lead:** [Marci Harris](https://www.linkedin.com/in/marcidale)
 * **Topic Description:** TBA
 
+**Multi-Party Contract Systems and Markets**
+* **Topic Lead:** [Christopher Berendt](https://www.drinkerbiddle.com/people/b/berendt-christopher-b)
+* **Topic Description:** TBA (Related to Contracts)
 
 # Apply to Register or Audit
 
