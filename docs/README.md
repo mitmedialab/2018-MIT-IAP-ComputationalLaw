@@ -4,7 +4,7 @@
 * **MIT Course Listing:** [http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html](http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html)
 * **Course Splashpage:** [https://mitmedialab.github.io/2018-MIT-IAP-ComputationalLaw](https://mitmedialab.github.io/2018-MIT-IAP-ComputationalLaw)
 * **No Prerequisites; Permission of Instructor Required**
-* **Class Sessions:** Tuesday, Wednesday and Thursday, January 16, 17 + 18 at 2:00pm - 4:00pm EST
+* **Classes:** Tuesday, Wednesday & Thursday, January 16, 17 & 18 at 2:00pm - 4:00pm EST
 * **Course Application:** [goo.gl/forms/Gh3HuIsHYVEwihC82](https://goo.gl/forms/Gh3HuIsHYVEwihC82)
 
 ## General Course Overview
