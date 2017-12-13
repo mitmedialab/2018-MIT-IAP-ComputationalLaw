@@ -42,31 +42,31 @@
 
 # Guest Speakers: Lecture and Breakout Topics
 
-## Multi-Party Contract Systems and Markets
+**Multi-Party Contract Systems and Markets**
 * **Topic Lead:** [Christopher Berendt](https://www.drinkerbiddle.com/people/b/berendt-christopher-b)
-* **Topic Description:** TBA
+* **Topic Description:** TBA (Related to Contracts)
 
-## Practice of Law and Practice Information Management
+**Practice of Law and Practice Information Management**
 * **Topic Lead:** [Shawnna Hoffman], [Laura Jehl], [Michele Gitlitz] and [Susan Joseph]
-* **Topic Description:** TBA
+* **Topic Description:** TBA (Related to Identity and Digital Assets)
 
-## Public Records and Long Term Archives
+**Public Records and Long Term Archives**
 * **Topic Lead:** [Jason Baron](https://www.linkedin.com/in/jasonrbaron)
 * **Topic Description:** TBA
 
-## Professional Ethics and Fiduciary Duties
+**Professional Ethics and Fiduciary Duties**
 * **Topic Lead:** [Tony Lai](https://www.linkedin.com/in/tonyklai)
 * **Topic Description:** TBA
 
-## Principal-Agent Authorization and Third Parties
+**Principal-Agent Authorization and Third Parties**
 * **Topic Lead:** [Christian Smith](https://github.com/christiansmith)
 * **Topic Description:** TBA
 
-## Personal Identity and Data Ownership and Control
+**Personal Identity and Data Ownership and Control**
 * **Topic Lead:** [Elizabeth Renieris](https://www.linkedin.com/in/elizabethrenieris/)
 * **Topic Description:** TBA
 
-## Public Governance and Municipal Administration
+**Public Governance and Municipal Administration**
 * **Topic Lead:** [Marci Harris](https://www.linkedin.com/in/marcidale)
 * **Topic Description:** TBA
 
