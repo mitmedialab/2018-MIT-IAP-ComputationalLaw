@@ -40,11 +40,27 @@
 
 <p><strong>For more information</strong>&nbsp;on the&nbsp;2018 MIT-IAP Computational Law Course, check out our&nbsp;<a href="https://github.com/mitmedialab/2018-MIT-IAP-ComputationalLaw/blob/master/docs/MIT-IAP-ComputationalLawCourse-Preview.pdf">Media Lab GitHub Repo</a>,&nbsp;<a href="http://law.mit.edu/learning">Splashpage</a>&nbsp;and official&nbsp;<span style="text-align: center;">MIT-IAP&nbsp;</span><a href="http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html" style="text-align: center;">Course Listing</a>&nbsp;page.&nbsp;</p>
 
-# Guest Speakers: Lecture and Breakout Topics
+# Class Topics and Speakers
 
-**Practice of Law and Practice Information Management**
+The content below is under active development and subject to change.
+
+## 1-16-2018: Digital Asset Lifecycle Management
+
 * **Topic Lead:** [Shawnna Hoffman](https://www.linkedin.com/in/shawnnahoffman), [Laura Jehl](https://www.bakerlaw.com/LauraEJehl), [Michele Gitlitz](https://www.blankrome.com/index.cfm?contentID=10&bioID=5923) & [Susan Joseph](https://www.linkedin.com/in/susangjoseph)
-* **Topic Description:** TBA (Related to Identity and Digital Assets)
+* **Topic Description:** TBA 
+
+## 1-17-2018: Multi-Party Contract Systems and Markets
+
+* **Topic Lead:** [Christopher Berendt](https://www.drinkerbiddle.com/people/b/berendt-christopher-b)
+* **Topic Description:** TBA 
+
+## 1-18-2018: Individual Identity and Personal Data
+
+* **Topic Lead:** [Dazza Greenwood](http://dazzagreenwood.com)
+* **Topic Description:** Let's face it - our digital identities and personal data have become important economic and practical resources of rapidly increasing value.  Personal identity involves more than money can buy, but it's also part of an emerging digital asset class.   Thriving industries exist to collect, track and trade this information while business and legal models respecting the rights and expectations of all the stakeholders (including you as a consumer) have not evolved to keep pace.  The rise of "smart" phones, homes and cities accelerated by blockchain, smart contracts and mass-automation offer new modes for control, methods for valuation and mechanisms for exchange of key rights to this new asset type. We will catalyze and focus discussion around an applied identity anchor scenario exploring the legal validity, admissibility and enforceability of blockchain-based digital signatures to grant or revoke consent and authorization for electronic transactions. What are the key issues, options and opportunities for startups generally and especially for innovative FinTech products, services and markets arising from this new digital asset class?  Join the discussion and let's find out - together.
+
+
+# Other Lecture and Breakout Topics Under Development
 
 **Public Records and Long Term Archives**
 * **Topic Lead:** [Jason Baron](https://www.linkedin.com/in/jasonrbaron)
@@ -66,9 +82,10 @@
 * **Topic Lead:** [Marci Harris](https://www.linkedin.com/in/marcidale)
 * **Topic Description:** TBA
 
-**Multi-Party Contract Systems and Markets**
-* **Topic Lead:** [Christopher Berendt](https://www.drinkerbiddle.com/people/b/berendt-christopher-b)
-* **Topic Description:** TBA (Related to Contracts)
+**Unincorporated Voluntary Organizations**
+* **Topic Leads:**  Society on Blockchain and AI
+* **Topic Description:** TBA (using distributed ledger technology as the method and mechanism by which next-generation light-weight organizations exist, self-govern, operate, contract and evolve)
+
 
 # Apply to Register or Audit
 
