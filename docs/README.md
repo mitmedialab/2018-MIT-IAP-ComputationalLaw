@@ -47,18 +47,40 @@ The content below is under active development and subject to change.
 ## 1-16-2018: Digital Asset Lifecycle Management
 
 * **Topic Lead:** [Shawnna Hoffman](https://www.linkedin.com/in/shawnnahoffman), [Laura Jehl](https://www.bakerlaw.com/LauraEJehl), [Michele Gitlitz](https://www.blankrome.com/index.cfm?contentID=10&bioID=5923) & [Susan Joseph](https://www.linkedin.com/in/susangjoseph)
-* **Topic Description:** TBA 
+* **Topic Description:** Diversity in Blockchain 
+
+### Livestream
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/4zNGVZcu7g8" frameborder="0" allowfullscreen></iframe>
+
+* Direct Link: http://youtu.be/4zNGVZcu7g8
+
+### Livenotes
+
+HackMD Page: https://hackmd.io/s/rybZ1pFEz
+
 
 ## 1-17-2018: Multi-Party Contract Systems and Markets
 
 * **Topic Lead:** [Christopher Berendt](https://www.drinkerbiddle.com/people/b/berendt-christopher-b)
 * **Topic Description:** TBA 
 
+### Livestream
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/a7hVDfOsWPs" frameborder="0" allowfullscreen></iframe>
+
+* Direct Link: http://youtu.be/a7hVDfOsWPs
+
+### Livenotes
+
 ## 1-18-2018: Individual Identity and Personal Data
 
 * **Topic Lead:** [Dazza Greenwood](http://dazzagreenwood.com)
 * **Topic Description:** Let's face it - our digital identities and personal data have become important economic and practical resources of rapidly increasing value.  Personal identity involves more than money can buy, but it's also part of an emerging digital asset class.   Thriving industries exist to collect, track and trade this information while business and legal models respecting the rights and expectations of all the stakeholders (including you as a consumer) have not evolved to keep pace.  The rise of "smart" phones, homes and cities accelerated by blockchain, smart contracts and mass-automation offer new modes for control, methods for valuation and mechanisms for exchange of key rights to this new asset type. We will catalyze and focus discussion around an applied identity anchor scenario exploring the legal validity, admissibility and enforceability of blockchain-based digital signatures to grant or revoke consent and authorization for electronic transactions. What are the key issues, options and opportunities for startups generally and especially for innovative FinTech products, services and markets arising from this new digital asset class?  Join the discussion and let's find out - together.
 
+### Livestream
+
+### Livenotes
 
 # Other Lecture and Breakout Topics Under Development
 
