@@ -7,6 +7,16 @@
 * **Classes:** Tuesday, Wednesday & Thursday, January 16, 17 & 18 at 2:00pm - 4:00pm EST
 * **Course Application:** [goo.gl/forms/Gh3HuIsHYVEwihC82](https://goo.gl/forms/Gh3HuIsHYVEwihC82)
 
+### Livestream
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4zNGVZcu7g8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+* Direct Link: [http://youtu.be/4zNGVZcu7g8](http://youtu.be/4zNGVZcu7g8)
+
+### Livenotes
+
+HackMD Page: [https://hackmd.io/s/rybZ1pFEz](https://hackmd.io/s/rybZ1pFEz)
+
 ## General Course Overview
 
 <span style="font-size: 14.4px;">This <a href="http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html">MIT-IAP course</a> pursues a cross-disciplinary exploration of the implications of emerging technologies on law and legal processes, with an emphasis on the development and deployment of automated computational business and legal systems.&nbsp; The course includes special focus areas on rules-driven Artificial Intelligence, Blockchain and Autonomous Transaction Networks.&nbsp; &nbsp;We will cover a variety of issues, including identification and integration of the business/legal/technical layers or facets of various commercial, industrial, infrastructural, educational, social, political and governmental web-based systems, the complex interaction between governance and sovereignty in public and private sector contexts and the emergence of algorithmic, adaptive methods and mechanisms for regulatory, adjudicative, fiduciary, contractual and other legal processes. The course will entail an intense array of learning and teaching methods. Students will be expected to participate in a variety of activities.&nbsp;</span><span style="font-size: 14.4px;">As inspiration, we will also attempt to learn from and adopt or adapt aspects of the new join MIT Media Lab and Harvard Law School course on the&nbsp;</span><a href="http://hls.harvard.edu/academics/curriculum/catalog/default.aspx?o=71157" style="font-size: 14.4px;">Ethics and Governance of Artificial Intelligence</a><span style="font-size: 14.4px;">.&nbsp;&nbsp;</span><span style="font-size: 14.4px;">In addition to MIT and Harvard students the course is open to MIT Media Lab and Harvard Berkman Klein Center fellows and affiliates and others approved to audit the course. There are no prerequisites for this course but <a href="https://goo.gl/forms/Gh3HuIsHYVEwihC82">permission of instructor is required</a> to attend.</span>
@@ -59,16 +69,6 @@ The content below is under active development and subject to change.
 
 
 ![db](https://user-images.githubusercontent.com/10615650/34964641-984fcb60-fa1c-11e7-895f-b0c00a2ad4d7.png)
-
-### Livestream
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4zNGVZcu7g8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-* Direct Link: [http://youtu.be/4zNGVZcu7g8](http://youtu.be/4zNGVZcu7g8)
-
-### Livenotes
-
-HackMD Page: [https://hackmd.io/s/rybZ1pFEz](https://hackmd.io/s/rybZ1pFEz)
 
 
 ## 1-17-2018: Multi-Party Contract Systems and Markets
