@@ -80,7 +80,13 @@ HackMD Page: https://hackmd.io/s/rybZ1pFEz
 
 ### Livestream
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/RXEs5Lvjp4o" frameborder="0" allowfullscreen></iframe>
+
+* Direct Link: http://youtu.be/RXEs5Lvjp4o
+
 ### Livenotes
+
+* HackMD Page: https://hackmd.io/EwZgHAJgjA7ArAQwLQgSYSAsAzYBTJATgWzCQGNcRMIFg4A2YYIA
 
 # Other Lecture and Breakout Topics Under Development
 
