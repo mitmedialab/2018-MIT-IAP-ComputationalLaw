@@ -73,6 +73,8 @@ HackMD Page: https://hackmd.io/s/rybZ1pFEz
 
 ### Livenotes
 
+* https://hackmd.io/EYBgxmAsDsYEwFpiQCYDYGQJxwBwNwDNcBWBAZhMnJWkPMPDSA==
+
 ## 1-18-2018: Individual Identity and Personal Data
 
 * **Topic Lead:** [Dazza Greenwood](http://dazzagreenwood.com)
