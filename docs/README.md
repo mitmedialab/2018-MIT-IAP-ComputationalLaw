@@ -50,10 +50,15 @@ The content below is under active development and subject to change.
 * **Topic Lead:** [Jason Baron](https://www.linkedin.com/in/jasonrbaron)
 * **Topic Description:** TBA
 
+![jb](https://user-images.githubusercontent.com/10615650/34964866-d13a1f4c-fa1d-11e7-8019-a31eaaa16d76.png)
+
 ### Diversity in Blockchain
 
 * **Topic Lead:** [Shawnna Hoffman](https://www.linkedin.com/in/shawnnahoffman), [Laura Jehl](https://www.bakerlaw.com/LauraEJehl), [Michele Gitlitz](https://www.blankrome.com/index.cfm?contentID=10&bioID=5923) & [Susan Joseph](https://www.linkedin.com/in/susangjoseph)
 * **Topic Description:** TBD
+
+
+![db](https://user-images.githubusercontent.com/10615650/34964641-984fcb60-fa1c-11e7-895f-b0c00a2ad4d7.png)
 
 ### Livestream
 
