@@ -67,7 +67,7 @@ HackMD Page: https://hackmd.io/s/rybZ1pFEz
 
 ### Livestream
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/a7hVDfOsWPs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a7hVDfOsWPs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * Direct Link: http://youtu.be/a7hVDfOsWPs
 
