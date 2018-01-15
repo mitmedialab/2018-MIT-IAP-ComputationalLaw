@@ -46,8 +46,14 @@ The content below is under active development and subject to change.
 
 ## 1-16-2018: Digital Asset Lifecycle Management
 
+### Computational Legal Records and Archives
+* **Topic Lead:** [Jason Baron](https://www.linkedin.com/in/jasonrbaron)
+* **Topic Description:** TBA
+
+### Diversity in Blockchain
+
 * **Topic Lead:** [Shawnna Hoffman](https://www.linkedin.com/in/shawnnahoffman), [Laura Jehl](https://www.bakerlaw.com/LauraEJehl), [Michele Gitlitz](https://www.blankrome.com/index.cfm?contentID=10&bioID=5923) & [Susan Joseph](https://www.linkedin.com/in/susangjoseph)
-* **Topic Description:** Diversity in Blockchain 
+* **Topic Description:** TBD
 
 ### Livestream
 
@@ -91,10 +97,6 @@ HackMD Page: [https://hackmd.io/s/rybZ1pFEz](https://hackmd.io/s/rybZ1pFEz)
 * HackMD Page: [https://hackmd.io/EwZgHAJgjA7ArAQwLQgSYSAsAzYBTJATgWzCQGNcRMIFg4A2YYIA](https://hackmd.io/EwZgHAJgjA7ArAQwLQgSYSAsAzYBTJATgWzCQGNcRMIFg4A2YYIA)
 
 # Other Lecture and Breakout Topics Under Development
-
-**Public Records and Long Term Archives**
-* **Topic Lead:** [Jason Baron](https://www.linkedin.com/in/jasonrbaron)
-* **Topic Description:** TBA
 
 **Professional Ethics and Fiduciary Duties**
 * **Topic Lead:** [Tony Lai](https://www.linkedin.com/in/tonyklai)
