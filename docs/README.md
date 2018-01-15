@@ -53,11 +53,11 @@ The content below is under active development and subject to change.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4zNGVZcu7g8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-* Direct Link: http://youtu.be/4zNGVZcu7g8
+* Direct Link: [http://youtu.be/4zNGVZcu7g8](http://youtu.be/4zNGVZcu7g8)
 
 ### Livenotes
 
-HackMD Page: https://hackmd.io/s/rybZ1pFEz
+HackMD Page: [https://hackmd.io/s/rybZ1pFEz](https://hackmd.io/s/rybZ1pFEz)
 
 
 ## 1-17-2018: Multi-Party Contract Systems and Markets
@@ -69,11 +69,11 @@ HackMD Page: https://hackmd.io/s/rybZ1pFEz
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a7hVDfOsWPs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-* Direct Link: http://youtu.be/a7hVDfOsWPs
+* Direct Link: [http://youtu.be/a7hVDfOsWPs](http://youtu.be/a7hVDfOsWPs)
 
 ### Livenotes
 
-* https://hackmd.io/EYBgxmAsDsYEwFpiQCYDYGQJxwBwNwDNcBWBAZhMnJWkPMPDSA==
+* [https://hackmd.io/EYBgxmAsDsYEwFpiQCYDYGQJxwBwNwDNcBWBAZhMnJWkPMPDSA==](https://hackmd.io/EYBgxmAsDsYEwFpiQCYDYGQJxwBwNwDNcBWBAZhMnJWkPMPDSA==)
 
 ## 1-18-2018: Individual Identity and Personal Data
 
@@ -84,11 +84,11 @@ HackMD Page: https://hackmd.io/s/rybZ1pFEz
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXEs5Lvjp4o?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-* Direct Link: http://youtu.be/RXEs5Lvjp4o
+* Direct Link: [http://youtu.be/RXEs5Lvjp4o](http://youtu.be/RXEs5Lvjp4o)
 
 ### Livenotes
 
-* HackMD Page: https://hackmd.io/EwZgHAJgjA7ArAQwLQgSYSAsAzYBTJATgWzCQGNcRMIFg4A2YYIA
+* HackMD Page: [https://hackmd.io/EwZgHAJgjA7ArAQwLQgSYSAsAzYBTJATgWzCQGNcRMIFg4A2YYIA](https://hackmd.io/EwZgHAJgjA7ArAQwLQgSYSAsAzYBTJATgWzCQGNcRMIFg4A2YYIA)
 
 # Other Lecture and Breakout Topics Under Development
 
