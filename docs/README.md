@@ -61,19 +61,19 @@ The content below is under active development and subject to change.
 HackMD Page: [https://hackmd.io/s/rybZ1pFEz](https://hackmd.io/s/rybZ1pFEz)
 
 ### Computational Legal Records and Archives
-* **Topic Lead:** [Jason Baron](https://www.linkedin.com/in/jasonrbaron)
-* **Topic Description:** Computational records keeping and the transition from manual to automated systems.
 
 ![jb](https://user-images.githubusercontent.com/10615650/34964866-d13a1f4c-fa1d-11e7-8019-a31eaaa16d76.png)
 
+* **Topic Lead:** [Jason Baron](https://www.linkedin.com/in/jasonrbaron)
+* **Topic Description:** Computational records keeping and the transition from manual to automated systems.
+
+
 ### Diversity in Blockchain
-
-* **Topic Lead:** [Shawnna Hoffman](https://www.linkedin.com/in/shawnnahoffman), [Laura Jehl](https://www.bakerlaw.com/LauraEJehl), [Michele Gitlitz](https://www.blankrome.com/index.cfm?contentID=10&bioID=5923) & [Susan Joseph](https://www.linkedin.com/in/susangjoseph)
-* **Topic Description:** An introduction to blockchain technology and an overview of the legal issues surrounding different blockchain use cases.
-
 
 ![db](https://user-images.githubusercontent.com/10615650/34964641-984fcb60-fa1c-11e7-895f-b0c00a2ad4d7.png)
 
+* **Topic Lead:** [Shawnna Hoffman](https://www.linkedin.com/in/shawnnahoffman), [Laura Jehl](https://www.bakerlaw.com/LauraEJehl), [Michele Gitlitz](https://www.blankrome.com/index.cfm?contentID=10&bioID=5923) & [Susan Joseph](https://www.linkedin.com/in/susangjoseph)
+* **Topic Description:** An introduction to blockchain technology and an overview of the legal issues surrounding different blockchain use cases.
 
 
 ## 1-17-2018: Multi-Party Contract Systems and Markets
