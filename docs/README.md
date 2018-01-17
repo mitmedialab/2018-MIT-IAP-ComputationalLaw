@@ -78,8 +78,10 @@ HackMD Page: [https://hackmd.io/s/rybZ1pFEz](https://hackmd.io/s/rybZ1pFEz)
 
 ## 1-17-2018: Multi-Party Contract Systems and Markets
 
+![cb](https://user-images.githubusercontent.com/10615650/35061941-af784b58-fb90-11e7-9dd0-8ae4879051e7.jpg)
+
 * **Topic Lead:** [Christopher Berendt](https://www.drinkerbiddle.com/people/b/berendt-christopher-b)
-* **Topic Description:** TBA 
+* **Topic Description:** Computational Contracts and using [Blockone ID](https://blockone.thomsonreuters.com/) and the Ethereum Blockchain
 
 ### Livestream
 
